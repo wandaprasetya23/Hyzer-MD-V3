@@ -1,7 +1,7 @@
 //=============『 Utama 』================== //
 global.owner = ['628975217200'] 
-global.mods = [] 
-global.prems = [] 
+global.mods = ['628975217200'] 
+global.prems = ['628975217200'] 
 
 //=============『 Info Owner 』============== //
 global.nameowner = 'wanda prasetya'
